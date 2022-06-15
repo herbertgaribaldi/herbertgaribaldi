@@ -4,7 +4,7 @@
 ---
 
 * Live in RJ-Brazil, 23 years old. Developer focused on Front-End and a Designer focused on UX/UI.
-* Enthusiast of technology and user experience, games, movies and series.
+* Enthusiast of coffee, games, movies, series and animes.
 * I’m currently learning Vue.JS and Node.JS for more knowledge.
 * When I'm not focused on work, I like to spend time on music.
 
