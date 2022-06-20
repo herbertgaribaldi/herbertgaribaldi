@@ -27,8 +27,6 @@
 <div id="ux-ui-tools" align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30"/>&nbsp;
     <img src="https://cdn.iconscout.com/icon/free/png-256/framer-3628191-3031011.png" title="Framer" alt="Framer" width="30" height="30"/>&nbsp;
-    <img src="https://github.com/goabstract/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg" title="AdobeXD" alt="Adobe XD" width="30" height="30"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="30" height="30"/>&nbsp;
 </div>
 
 ---
