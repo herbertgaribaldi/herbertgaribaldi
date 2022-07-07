@@ -54,9 +54,6 @@
   <a href="https://dribbble.com/herbertgaribaldi/about" target="_blank">
     <img src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png" alt="Dribbble" width="30" height="30"/>
   </a>
-  <a href="https://twitter.com/herbgaribaldi" target="_blank">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30"/>
-  </a>
   <a href="https://instagram.com/herbertgaribaldi" target="_blank">&nbsp;
     <img src="https://www.fiveacrefarms.com/wp-content/uploads/2019/04/instagram.png" alt="Instagram" width="30" height="30"/>
   </a>
