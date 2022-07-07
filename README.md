@@ -60,10 +60,4 @@
   <a href="https://instagram.com/herbertgaribaldi" target="_blank">&nbsp;
     <img src="https://www.fiveacrefarms.com/wp-content/uploads/2019/04/instagram.png" alt="Instagram" width="30" height="30"/>
   </a>
-  <a href="https://twitch.tv/herbertgaribaldi" target="_blank">&nbsp;
-    <img src="https://pngimg.com/uploads/twitch/small/twitch_PNG49.png" alt="Twitch" width="30" height="30"/>
-  </a>
-  <a href="https://www.youtube.com/user/HerbertGaribaldi/" target="_blank">&nbsp;
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="30" height="30"/>
-  </a>
 </div>
