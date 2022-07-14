@@ -12,7 +12,7 @@ Hi, I'm Herbert, aka 'fishbones'! Live in RJ-Brazil, 23 years old. I'm a freelan
 
 ### <p align="center"><i> :hammer: Tech stack:</i></p>
 
-#### <p align="center">Front-End development:</p>
+#### <p align="center">Development:</p>
 
 <div id="frontend-tools" align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
@@ -24,7 +24,7 @@ Hi, I'm Herbert, aka 'fishbones'! Live in RJ-Brazil, 23 years old. I'm a freelan
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VS code" width="30" height="30"/>&nbsp;
 </div>
 
-#### <p align="center">UX/UI design:</p>
+#### <p align="center">Design:</p>
 
 <div id="ux-ui-tools" align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30"/>&nbsp;
