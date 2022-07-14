@@ -4,8 +4,6 @@
     
 </div>
 
-<br>
-
 ---
 
 Hi, I'm Herbert, aka 'fishbones'! Live in RJ-Brazil, 23 years old. I'm a freelance Front-End Developer and UX/UI Designer and my mission is to solve problems with creativity and memorable design, always being as practical and intuitive as possible. Focused on the development of interfaces for websites and applications, project always with a view to the best user experience with a good look and project objective. Enthusiast of coffee, games, movies, series and animes. When I'm not focused on work, I like to spend time on music.
