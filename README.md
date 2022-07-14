@@ -1,6 +1,6 @@
 <div id="header" width="auto" heigth="auto" align="center">
     
-![test-personal-01](https://user-images.githubusercontent.com/107329000/179026521-388582d3-31f0-4722-8a41-b83439cdeeb2.png)
+![test-personal-github-header](https://user-images.githubusercontent.com/107329000/179029363-8ab7e286-df50-440b-9d4b-c919c74a1d69.png)
     
 </div>
 
@@ -8,16 +8,14 @@
 
 ---
 
-* Live in RJ-Brazil, 23 years old. Developer focused on Front-End and a Designer focused on UX/UI.
-* Enthusiast of technology and design, coffee, games, movies, series and animes.
-* I’m currently learning Vue.JS and Node.JS for more knowledge.
-* When I'm not focused on work, I like to spend time on music.
+Hi, I'm Herbert, aka 'fishbones'! Live in RJ-Brazil, 23 years old. I'm a freelance Front-End Developer and UX/UI Designer and my mission is to solve problems with creativity and memorable design, always being as practical and intuitive as possible. Focused on the development of interfaces for websites and applications, project always with a view to the best user experience with a good look and project objective. Enthusiast of coffee, games, movies, series and animes. When I'm not focused on work, I like to spend time on music.
 
 ---
 
 ### <p align="center"><i> :hammer: Tech stack:</i></p>
 
 #### <p align="center">Front-End development:</p>
+
 <div id="frontend-tools" align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
@@ -29,6 +27,7 @@
 </div>
 
 #### <p align="center">UX/UI design:</p>
+
 <div id="ux-ui-tools" align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30"/>&nbsp;
     <img src="https://cdn.iconscout.com/icon/free/png-256/framer-3628191-3031011.png" title="Framer" alt="Framer" width="30" height="30"/>&nbsp;
@@ -37,6 +36,7 @@
 ---
 
 ### <P align="center"><i> :chart_with_upwards_trend: My GitHub Stats:</i></p>
+
 <div id="github-stats" align="center">
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=herbertgaribaldi&show_icons=true&theme=tokyonight)
@@ -49,6 +49,7 @@
 ---
 
 ### <P align="center"><i> :mag: How to reach me:</i></p>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/herbertgaribaldi/L" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
