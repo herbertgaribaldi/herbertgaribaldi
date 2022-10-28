@@ -38,7 +38,14 @@ A developer expert in creating apps and websites. A designer focused on Experien
 
 <div id="github-stats" display="inline-block">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<herbertgaribaldi>" />
+<p align="center">
+	<a href="https://github.com/herbertgaribaldi" target="_blank">
+		<img src="https://github-readme-stats.vercel.app/api?username=herbertgaribaldi&theme=dark&show_icons=true" width="45%" alt="Garibaldi's github stats"/>
+	</a>
+	<a href="https://github.com/herbertgaribaldi" target="_blank">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertgaribaldi&layout=compact&hide=html&theme=dark" width="45%" alt="Garibaldi's github top skills"/>
+	</a>
+</p>
 
 </div>
 
