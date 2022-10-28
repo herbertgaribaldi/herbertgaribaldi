@@ -51,7 +51,11 @@ A developer expert in creating apps and websites. A designer focused on Experien
 
 ---
 
-### <P align="center"><i> :mag: How to reach me:</i></p>
+<div id="header" width="auto" heigth="auto" align="center">
+    
+![social-medias](https://user-images.githubusercontent.com/107329000/198709823-86a2ea2b-6980-434a-845f-f1ef87ec451f.png)
+    
+</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/herbertgaribaldi/L" target="_blank">
@@ -66,4 +70,8 @@ A developer expert in creating apps and websites. A designer focused on Experien
   <a href="https://instagram.com/herbertgaribaldi" target="_blank">&nbsp;
     <img src="https://www.fiveacrefarms.com/wp-content/uploads/2019/04/instagram.png" alt="Instagram" width="30" height="30"/>
   </a>
+</div>
+
+<div>
+  Email: herbertgaribaldi@outlook.com
 </div>
