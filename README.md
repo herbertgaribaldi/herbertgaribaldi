@@ -30,9 +30,13 @@ A developer expert in creating apps and websites. A designer focused on Experien
 
 ---
 
-### <P align="center"><i> :chart_with_upwards_trend: My GitHub Stats:</i></p>
+<div id="header" width="auto" heigth="auto" align="center">
+    
+![github-stats](https://user-images.githubusercontent.com/107329000/198709806-32daa0ef-c903-4126-b9ad-9923191c121c.png)
+    
+</div>
 
-<div id="github-stats" align="center">
+<div id="github-stats" display="inline-block">
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=herbertgaribaldi&show_icons=true&theme=tokyonight)
 <br><br>
