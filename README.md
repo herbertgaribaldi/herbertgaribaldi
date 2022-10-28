@@ -24,6 +24,7 @@ A developer expert in creating apps and websites. A designer focused on Experien
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VS code" width="30" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="AdobeXD" alt="Adobe XD" width="30" height="30"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="AdobeI" alt="Illustrator" width="30" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="AdobePS" alt="Photoshop" width="30" height="30"/>&nbsp;
 </div>
 
