@@ -8,24 +8,23 @@ A developer expert in creating apps and websites. A designer focused on Experien
 
 ---
 
-### <p align="center"><i> :hammer: Tech stack:</i></p>
-
-#### <p align="center">Development:</p>
+<div id="header" width="auto" heigth="auto" align="center">
+    
+![work-tools](https://user-images.githubusercontent.com/107329000/198709770-297c6b7e-edfb-4f9c-8b4d-7eae48d4a148.png)
+    
+</div>
 
 <div id="frontend-tools" align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.JS" alt="React" width="30" height="30"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="React" width="30" height="30"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="Node" width="30" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VS code" width="30" height="30"/>&nbsp;
-</div>
-
-#### <p align="center">Design:</p>
-
-<div id="ux-ui-tools" align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30"/>&nbsp;
-    <img src="https://cdn.iconscout.com/icon/free/png-256/framer-3628191-3031011.png" title="Framer" alt="Framer" width="30" height="30"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="AdobeXD" alt="Adobe XD" width="30" height="30"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="AdobePS" alt="Photoshop" width="30" height="30"/>&nbsp;
 </div>
 
 ---
