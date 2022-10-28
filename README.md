@@ -1,12 +1,10 @@
 <div id="header" width="auto" heigth="auto" align="center">
     
-![personal-header-new](https://user-images.githubusercontent.com/107329000/186243380-023a2911-aee1-46a8-a892-b24672d8a4d7.png)
+![about-me](https://user-images.githubusercontent.com/107329000/198709713-57f40e46-f37e-4b84-80e7-9cfa99468bf1.png)
     
 </div>
 
----
-
-Hi, I'm Herbert, aka 'fishbones'! Live in RJ-Brazil, 23 years old. I'm a freelance Front-End Developer and UX/UI Designer and my mission is to solve problems with creativity and memorable design, always being as practical and intuitive as possible. Focused on the development of interfaces for websites and applications, project always with a view to the best user experience with a good look and project objective. Enthusiast of coffee, games, movies, series and animes. When I'm not focused on work, I like to spend time on music.
+A developer expert in creating apps and websites. A designer focused on Experience and User Interface and on creating a minimalist logo. My mission is to solve problems with creativity and memorable design always aiming for the best user experience with a modern look and high performance.
 
 ---
 
