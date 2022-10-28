@@ -72,6 +72,6 @@ A developer expert in creating apps and websites. A designer focused on Experien
   </a>
 </div>
 
-<div>
+<div align="center">
   Email: herbertgaribaldi@outlook.com
 </div>
