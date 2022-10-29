@@ -62,10 +62,10 @@ Specialist website and application developer, designer focused on user interface
     <img src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png" alt="LinkedIn" width="30" height="30"/>
   </a>&nbsp;
   <a href="https://www.behance.net/herbertgaribaldi" target="_blank">
-    <img src="![Behance](https://user-images.githubusercontent.com/107329000/198753335-f9ba55eb-1778-46e0-be57-82135d54aceb.png)" alt="behance" width="30" height="30"/>
+    <img src="https://www.citypng.com/public/uploads/small/316222305081cpqbpdpyv2yyjydokmyfgwsmlvhuagsnuve7wfx0w1lbveg6npsbh0fbpno4qddp9mng2rsnhbjt9v9alv7s0uyfcfyi2qqpsno.png" alt="behance" width="30" height="30"/>
   <a>&nbsp;
   <a href="https://dribbble.com/herbertgaribaldi/about" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRIitdYN9ARQtTrVdiMTvJWLk1Xc5Yl21qq7iwkMO64nM966HkocpobvS0_spqc_uxKeo&usqp=CAU" alt="Dribbble" width="30" height="30"/>
+    <![Vector-1](https://user-images.githubusercontent.com/107329000/198753410-54b398e9-1d44-4eea-aea7-86d080189c6f.png) width="30" height="30"/>
   </a>
   <a href="https://instagram.com/herbertgaribaldi" target="_blank">&nbsp;
     <img src="https://png.pngitem.com/pimgs/s/30-309740_optics-clip-white-icon-instagram-logo-png-transparent.png" alt="Instagram" width="30" height="30"/>
