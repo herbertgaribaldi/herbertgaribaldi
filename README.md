@@ -68,7 +68,7 @@ Specialist website and application developer, designer focused on user interface
     <img src="https://cdn1.iconfinder.com/data/icons/social-icon-1-1/512/social_style_1_dribb-512.png" alt="dribbble" width="30" height="30"/>
   </a>
   <a href="https://instagram.com/herbertgaribaldi" target="_blank">&nbsp;
-    <img src="[https://png.pngitem.com/pimgs/s/30-309740_optics-clip-white-icon-instagram-logo-png-transparent.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png)" alt="Instagram" width="30" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" width="30" height="30"/>
   </a>
 </div>
 
