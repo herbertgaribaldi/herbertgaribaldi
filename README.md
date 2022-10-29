@@ -59,16 +59,16 @@ Specialist website and application developer, designer focused on user interface
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/herbertgaribaldi/L" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+    <img src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png" alt="LinkedIn" width="30" height="30"/>
   </a>&nbsp;
   <a href="https://www.behance.net/herbertgaribaldi" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" alt="behance" width="30" height="30"/>
+    <img src="https://www.citypng.com/public/uploads/preview/-31622230213ylqvh58mvc.png" alt="behance" width="30" height="30"/>
   <a>&nbsp;
   <a href="https://dribbble.com/herbertgaribaldi/about" target="_blank">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png" alt="Dribbble" width="30" height="30"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRIitdYN9ARQtTrVdiMTvJWLk1Xc5Yl21qq7iwkMO64nM966HkocpobvS0_spqc_uxKeo&usqp=CAU" alt="Dribbble" width="30" height="30"/>
   </a>
   <a href="https://instagram.com/herbertgaribaldi" target="_blank">&nbsp;
-    <img src="https://www.fiveacrefarms.com/wp-content/uploads/2019/04/instagram.png" alt="Instagram" width="30" height="30"/>
+    <img src="https://png.pngitem.com/pimgs/s/30-309740_optics-clip-white-icon-instagram-logo-png-transparent.png" alt="Instagram" width="30" height="30"/>
   </a>
 </div>
 
