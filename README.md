@@ -60,14 +60,14 @@ Specialist website and application developer, designer focused on user interface
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/herbertgaribaldi/L" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
-  </a>
+  </a>&nbsp;
   <a href="https://www.behance.net/herbertgaribaldi" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" alt="behance" width="30" height="30"/>
-  </a>
+  </a>&nbsp;
   <a href="https://dribbble.com/herbertgaribaldi/about" target="_blank">
     <img src="https://cdn1.iconfinder.com/data/icons/social-icon-1-1/512/social_style_1_dribb-512.png" alt="dribbble" width="30" height="30"/>
-  </a>
-  <a href="https://instagram.com/herbertgaribaldi" target="_blank">&nbsp;
+  </a>&nbsp;
+  <a href="https://instagram.com/herbertgaribaldi" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" width="30" height="30"/>
   </a>
 </div>
