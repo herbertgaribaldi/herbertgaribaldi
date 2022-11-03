@@ -59,16 +59,16 @@ A developer expert in creating apps and websites. A designer focused on Experien
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/herbertgaribaldi/L" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="linkedIn" width="50" height="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="linkedIn" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://www.behance.net/herbertgaribaldi" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" alt="behance" width="30" height="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" alt="behance" width="40" height="40"/>
   <a>&nbsp;
   <a href="https://dribbble.com/herbertgaribaldi/about" target="_blank">
-    <img src="https://cdn1.iconfinder.com/data/icons/social-icon-1-1/512/social_style_1_dribb-512.png" alt="dribbble" width="30" height="30"/>
+    <img src="https://cdn1.iconfinder.com/data/icons/social-icon-1-1/512/social_style_1_dribb-512.png" alt="dribbble" width="40" height="40"/>
   </a>
   <a href="https://instagram.com/herbertgaribaldi" target="_blank">&nbsp;
-    <img src="https://cdn.pixabay.com/photo/2018/05/27/22/48/social-3434838__340.png" alt="instagram" width="30" height="30"/>
+    <img src="https://cdn.pixabay.com/photo/2018/05/27/22/48/social-3434838__340.png" alt="instagram" width="40" height="40"/>
   </a>
 </div>
 
