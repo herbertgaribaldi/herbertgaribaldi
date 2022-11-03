@@ -59,7 +59,7 @@ A developer expert in creating apps and websites. A designer focused on Experien
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/herbertgaribaldi/L" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="linkedIn" width="30" height="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="linkedIn" width="50" height="50"/>
   </a>&nbsp;
   <a href="https://www.behance.net/herbertgaribaldi" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" alt="behance" width="30" height="30"/>
