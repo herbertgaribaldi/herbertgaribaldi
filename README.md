@@ -4,7 +4,7 @@
     
 </div>
 
-A developer expert in creating apps and websites. A designer focused on Experience and User Interface and on creating a minimalist logo. My mission is to solve problems with creativity and memorable design always aiming for the best user experience with a modern look and high performance.
+Specialist website and application developer, designer focused on user interface and experience, in addition to creating minimalist logos. My mission is to solve problems with creativity and memorable design, always being as practical and intuitive as possible for the best user experience with an unforgettable appearance.
 
 ---
 
