@@ -59,7 +59,7 @@ A developer expert in creating apps and websites. A designer focused on Experien
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/herbertgaribaldi/L" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="30" height="30"/>
   </a>&nbsp;
   <a href="https://www.behance.net/herbertgaribaldi" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" alt="behance" width="30" height="30"/>
@@ -68,7 +68,7 @@ A developer expert in creating apps and websites. A designer focused on Experien
     <img src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png" alt="Dribbble" width="30" height="30"/>
   </a>
   <a href="https://instagram.com/herbertgaribaldi" target="_blank">&nbsp;
-    <img src="https://www.fiveacrefarms.com/wp-content/uploads/2019/04/instagram.png" alt="Instagram" width="30" height="30"/>
+    <img src="https://cdn.pixabay.com/photo/2018/05/27/22/48/social-3434838__340.png" alt="Instagram" width="30" height="30"/>
   </a>
 </div>
 
