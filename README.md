@@ -4,7 +4,7 @@
     
 </div>
 
-Specialist website and application developer, designer focused on user interface and experience, in addition to creating minimalist logos. My mission is to solve problems with creativity and memorable design, always being as practical and intuitive as possible for the best user experience with an unforgettable appearance.
+I'm a Front-End software developer and UX/UI designer - in addition to creating minimalist logos. My mission is to devise solutions that facilitate people's daily lives, to sketch and bring them to life, always being as practical and intuitive as possible for the best user experience with an unforgettable appearance.
 
 ---
 
